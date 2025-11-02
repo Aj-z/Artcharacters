@@ -22,7 +22,7 @@ function Header({ onToggleHeader, onToggleSidebar, showHeaderContent, showSideba
                 : "opacity-0 -translate-x-5 pointer-events-none"
             }`}
           >
-            — Header content —
+             <p className="hover:text-black transition" href=""><a href="/">Home</a> / <a href="https://github.com/Aj-z/Artcharacters">About</a></p>
           </div>
         </div>
 
@@ -49,9 +49,11 @@ function Header({ onToggleHeader, onToggleSidebar, showHeaderContent, showSideba
           `}
         >
           <div className="flex md:flex-col flex-row md:space-y-2 space-x-3 md:space-x-0">
-            <p className="hover:text-black transition" href=""><a href="/">Home</a></p>
-            <p className="hover:text-black transition" href=""><a href="https://github.com/Aj-z/Artcharacters">Projects</a></p>
-            <p className="hover:text-black transition" ><a href="https://github.com/Aj-z/Artcharacters">About</a></p>
+            
+            <p className="hover:text-black transition" href=""><a href="https://www.instagram.com/ajloria/">Insta</a></p>
+            <p className="hover:text-black transition" href=""><a href="https://www.facebook.com/AAjloria/">Facebook</a></p>
+            <p className="hover:text-black transition" href=""><a href="https://cara.app/ajloria/portfolio">Cara</a></p>
+            
           </div>
         </div>
         </div>
