@@ -34,7 +34,7 @@ export const characters = [
   {
     name: "Neurotransmitter // Noradrenaline",
     cardname: "Noradrenaline",
-    image: "/characters/norasplash1.1.png",
+    image: "/characters/norasplash1.4.png",
     altImage: "https://cdn.cara.app/production/posts/63ecddaf-cd8a-4d82-969e-6f95c6a16372/ajloria-d9J-MS0ImcpiA5_igd4IE-DEFAULTNoradrenalinead500d9e-cddc-48b4-9f65-079c36e24c6a.png",
     portrait: "/characters/nora.png",
     description: "Born into poverty, Noradrenaline or Nora grew up surrounded by the world’s cruelty and imbalance, witnessing injustices that shaped her understanding of power and morality. Even as a child, her intellect shone brightly; she questioned systems far beyond her years, her curiosity and insight catching the attention of nobles and scholars who recognized her brilliance. With their support, she pursued her studies with relentless dedication, eventually earning her place as a respected scholar and diplomat committed to maintaining peace and justice. Though she carries herself with composure and wisdom, her heart remembers the pain of struggle, driving her to fight for those who cannot speak for themselves. Nora’s calm, analytical nature allows her to navigate political storms with grace, always balancing compassion with reason. Yet behind her disciplined facade lies a quiet longing to escape the weight of duty, to breathe freely beneath open skies, and to remember the simple joys of living beyond the boundaries of responsibility.",
