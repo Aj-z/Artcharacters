@@ -41,10 +41,10 @@ export const characters = [
   },
   {
     name: "Neurotransmitter // Glutamate",
-    cardname: "Oxytocin",
-    image: "https://cdn.cara.app/production/posts/558d99e1-c495-40ec-824b-dbadf5a55d55/ajloria-ZPex1-YabHTP0Ta73qW---DEFAULTGlutamatedfd73744-cfb4-4da3-b512-a79cfeb7f243.png",
+    cardname: "Glutamate",
+    image: "/characters/Glutamate1.png",
     altImage: "https://cdn.cara.app/production/posts/558d99e1-c495-40ec-824b-dbadf5a55d55/ajloria-ZPex1-YabHTP0Ta73qW---DEFAULTGlutamatedfd73744-cfb4-4da3-b512-a79cfeb7f243.png",
-    portrait: "https://cdn.cara.app/production/posts/558d99e1-c495-40ec-824b-dbadf5a55d55/ajloria-ZPex1-YabHTP0Ta73qW---DEFAULTGlutamatedfd73744-cfb4-4da3-b512-a79cfeb7f243.png",
+    portrait: "/characters/Glutaportrait.png",
     description: "Descended from the ancient people of the lost ruins, Glutamate is a being of overwhelming strength and hunger, born into a modern world that can barely contain him. In his early years, he wandered like a nomad, living off instinct devouring whatever he could find, fighting anyone who dared challenge him, yet never feeling truly satisfied. His insatiable appetite for food and battle became both his curse and his identity, earning him a fearsome reputation. Everything changed when he crossed paths with the monks of the Center, who saw through his wildness and taught him the art of temperance. Through years of discipline, Glutamate learned to restrain his immense power and to channel his cravings into focus and balance. Now, though he still jokes with friends about eating 500 kilos of food or sparring with robots for fun, behind his hearty laugh lies a man who has conquered himself a living embodiment of self-control born from chaos, proving that true strength is not in indulgence, but in mastery.",
   },
   {
